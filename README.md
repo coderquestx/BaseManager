@@ -1,6 +1,6 @@
-# HRM Base Manager - Frontend Application
+# Base Manager
 
-**HRM Base Manager** is a React-based frontend application designed to manage Human Resource Management (HRM) systems with GraphQL support. The application provides functionalities for managing HR data, employee records, payroll, and more, with a powerful and flexible GraphQL backend for querying and mutating data. This app allows HR professionals to efficiently manage their workforce and related data.
+**Base Manager** is a React-based frontend application designed to manage Human Resource Management (HRM) systems with GraphQL support. The application provides functionalities for managing HR data, employee records, payroll, and more, with a powerful and flexible GraphQL backend for querying and mutating data. This app allows HR professionals to efficiently manage their workforce and related data.
 
 ---
 
